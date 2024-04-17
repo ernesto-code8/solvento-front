@@ -11,7 +11,7 @@ git clone https://github.com/ernesto-code8/solvento-front.git
 cd solvento-front
 yarn install
 
-### `npm start`
+### `npm start` RUN the aplication
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
